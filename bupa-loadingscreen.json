@@ -1,0 +1,9 @@
+{
+  "version": "1.0.0",
+  "download": "https://portal.cfx.re/assets/granted-assets?search=bupa-loadingscreen",
+  "changelog": [
+    "Initial release",
+    "Live player count (fivestats), playlist, staff modal",
+    "Multiple color themes with live switcher"
+  ]
+}

@@ -2,8 +2,8 @@
   "version": "1.5.0",
   "download": "https://portal.cfx.re/assets/granted-assets?search=bupa-animpos",
   "changelog": [
-    "7 dil destegi (tr, en, de, fr, es, pt, ru)",
-    "Konsol surum kontrolu ve haber sistemi",
-    "UI okunabilirlik iyilestirmeleri"
+    "Added 7 languages (tr, en, de, fr, es, pt, ru)",
+    "Added console version checker and news system",
+    "UI readability improvements"
   ]
 }

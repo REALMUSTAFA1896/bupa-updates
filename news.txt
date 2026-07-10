@@ -1,6 +1,1 @@
-Bu satirlari duzenleyerek tum musterilerinin konsoluna reklam bas.
-Bu dosyayi guncelleyip push ettiginde herkeste otomatik gorunur.
-
-^2>> Yeni script? Buraya yaz! <<^7
-Discord: discord.gg/senin-linkin
-Tebex:   https://senin-tebex-linkin
+discord.gg/bupascript

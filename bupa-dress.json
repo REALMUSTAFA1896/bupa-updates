@@ -1,0 +1,9 @@
+{
+  "version": "1.0.0",
+  "download": "https://portal.cfx.re/assets/granted-assets?search=bupa-dress",
+  "changelog": [
+    "Initial release",
+    "Docked side panel UI with English/Turkish locales",
+    "Per-item commands and preview camera"
+  ]
+}

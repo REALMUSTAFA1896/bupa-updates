@@ -1,0 +1,13 @@
+{
+  "version": "1.0.0",
+  "download": "https://portal.cfx.re/assets/granted-assets?search=bupa-multicharacter",
+  "changelog": [
+    "Initial release",
+    "ESX / QBox / QBCore compatible",
+    "Custom React NUI (character select, creation, settings, delete)",
+    "Partner system (CP / BFF) with live and offline invites",
+    "Built-in Leaflet spawn map with configurable spawn modes",
+    "Discord role based extra character slots",
+    "Console version checker and news system"
+  ]
+}

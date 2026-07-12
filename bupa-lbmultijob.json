@@ -1,0 +1,14 @@
+{
+  "version": "1.1.0",
+  "download": "https://github.com/REALMUSTAFA1896/bupa-lbmultijob",
+  "changelog": [
+    "Rebuilt UI from scratch on the BUPA design system (Plus Jakarta Sans, 8px grid, Lucide icons)",
+    "No CDN dependencies: fonts and icons ship with the resource",
+    "Fixed a hardcoded resource-name check that disabled the script when the folder was renamed",
+    "Job list now shows the active job, grade, salary and a duty toggle in one card",
+    "Confirmation sheet before removing a job",
+    "Empty state when no jobs are saved",
+    "Automatic job icons (police, EMS, mechanic, taxi, trucker and more)",
+    "Console version checker and news system"
+  ]
+}

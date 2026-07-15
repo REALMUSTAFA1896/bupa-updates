@@ -1,0 +1,13 @@
+{
+  "version": "1.0.0",
+  "download": "https://portal.cfx.re/assets/granted-assets?search=bupa-safezonecreator",
+  "changelog": [
+    "Initial release",
+    "Freecam zone drawing with ox_lib poly zones",
+    "26+ zone rules incl. Anti-VDM, weapon policy, schedule",
+    "ESX / QB-Core / QBox / Standalone support",
+    "Auto weapon list + icons from ox/qb/esx/tgiann/codem inventories",
+    "800+ blip sprites and area-circle blips, real FiveM colours",
+    "React + Vite UI, English + Turkish locales"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "download": "https://portal.cfx.re/assets/granted-assets?search=bupa-chaircreator",
+  "changelog": [
+    "Initial release",
+    "In-game WYSIWYG sit placement with an orbit camera (works inside interiors)",
+    "Prop sits and free spots, ox_target / qb-target / TextUI / 3D marker",
+    "Sitting pose library, custom animations and player-choice menu",
+    "Config sit packs and full in-game settings saved to JSON"
+  ]
+}

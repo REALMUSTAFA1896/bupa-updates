@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "download": "https://portal.cfx.re/assets/granted-assets?search=bupa-rental",
+  "changelog": [
+    "Initial release",
+    "QB / ESX / QBX support via a framework bridge",
+    "Vehicle keys bridges (qbx, qb, mk, Renewed, qs) + custom",
+    "12 languages (tr, en, de, fr, es, pt, it, ru, ar, pl, nl, cs)",
+    "React interface, minute/hour/day/week rentals, rental contract item"
+  ]
+}

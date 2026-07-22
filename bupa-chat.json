@@ -1,9 +1,9 @@
 {
-    "version": "2.0.0",
-    "download": "https://github.com/REALMUSTAFA1896",
-    "changelog": [
-        "Standalone: no external core dependency (ESX / QB-Core / QBox bridge built in)",
-        "Full BUPA rebrand and restructure",
-        "Built-in version check + news"
-    ]
+  "version": "1.0.0",
+  "download": "https://github.com/REALMUSTAFA1896",
+  "changelog": [
+    "Custom sound set: typing, backspace, send, open, close and new-message alert",
+    "Sounds are decoded once and reused, so fast typing no longer stutters",
+    "Typing tick varies slightly per key instead of repeating identically"
+  ]
 }

@@ -1,0 +1,10 @@
+{
+  "version": "1.0.0",
+  "download": "https://portal.cfx.re/assets/granted-assets?search=bupa-weaponbag",
+  "changelog": [
+    "First release",
+    "Place a bag in the world and drag weapons into shaped pockets",
+    "Works with ox, qb, qs, codem, tgiann and ESX inventories",
+    "Weapon metadata preserved, stack amounts, 10 languages"
+  ]
+}

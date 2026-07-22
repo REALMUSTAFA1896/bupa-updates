@@ -1,0 +1,10 @@
+{
+  "version": "1.0.0",
+  "download": "https://portal.cfx.re/assets/granted-assets?search=bupa-syncstatus",
+  "changelog": [
+    "First release",
+    "Live character preview with clickable body regions",
+    "Medic documentation with durations and locked notes",
+    "10 languages, Discord webhook logging"
+  ]
+}

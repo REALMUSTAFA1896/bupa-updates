@@ -1,11 +1,11 @@
 {
-  "version": "1.0.0",
+  "version": "1.1.0",
   "download": "https://portal.cfx.re/assets/granted-assets?search=bupa-addictioncreator",
   "changelog": [
-    "First release",
-    "Build substances in game: intake, effects, addiction, withdrawal, overdose",
-    "Draggable intensity curve, live preview, 12 symptoms and 9 walk styles",
-    "Doctors can examine a patient and treat what they find",
-    "QBox, QB-Core and ESX with every major inventory, 10 languages"
+    "Interface rebuilt: custom dropdowns and steppers, no native browser controls",
+    "Discord-style unsaved bar with Reset, and an in-UI delete confirmation",
+    "Cleaner theme matched to the rest of the BUPA catalogue, Lucide icons throughout",
+    "Now ships with 18 languages",
+    "Automatic SQL import on first start"
   ]
 }

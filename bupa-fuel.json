@@ -1,0 +1,13 @@
+{
+  "version": "1.0.0",
+  "download": "https://portal.cfx.re/assets/granted-assets?search=bupa-fuel",
+  "changelog": [
+    "First release",
+    "Own gas stations: buy them, set per-litre prices, hire staff with permissions",
+    "Full management dashboard and a server-wide station admin panel",
+    "In-world 3D panels above the pump, visible to nearby players",
+    "Wrong-fuel consequences, jerry cans, electric charging and battery swaps",
+    "Stock deliveries: order wholesale, drive the tanker to the depot and back",
+    "QBox, QB-Core and ESX with every major inventory, 18 languages"
+  ]
+}

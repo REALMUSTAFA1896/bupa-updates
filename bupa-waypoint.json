@@ -1,0 +1,12 @@
+{
+  "version": "1.0.0",
+  "download": "https://portal.cfx.re/assets/granted-assets?search=bupa-waypoint",
+  "changelog": [
+    "Initial release",
+    "AR navigation: road chevrons, destination marker, distance meter, mini turn-box, street label, drone compass",
+    "React + Vite settings panel with live preview and per-element design styles",
+    "Voice guidance (Google-Maps style) with natural neural TTS",
+    "10 in-game switchable languages",
+    "Framework-agnostic (QBox / QB / ESX / standalone), per-player persistence"
+  ]
+}

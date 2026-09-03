@@ -1,0 +1,14 @@
+{
+  "version": "1.0.0",
+  "download": "https://portal.cfx.re/assets/granted-assets?search=bupa-bank",
+  "changelog": [
+    "First release",
+    "Full bank terminal: overview, transfers, invoices, statement, cards, savings and society payroll",
+    "Cashpoint panel on every ATM prop, with its own PIN gate and note counting",
+    "/bill writes an invoice to the person in front of you, personally or in your society's name",
+    "Savings vault with weekly interest, lockups and named goals",
+    "Society accounts: member list, hourly wages and one-click payroll",
+    "Cards you can freeze, re-PIN and reorder, plus extra accounts",
+    "QBox, QB-Core, ESX, ox_core, ND_Core and standalone, 12 languages picked per player"
+  ]
+}

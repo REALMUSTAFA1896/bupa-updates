@@ -1,0 +1,12 @@
+{
+  "version": "1.0.0",
+  "download": "https://portal.cfx.re/assets/granted-assets?search=bupa-compatibility",
+  "changelog": [
+    "First release",
+    "Auto-hides hair that clips through hats, masks and hooded tops - no per-hair numbers",
+    "Reads the game's own item restriction tags, so it works with every clothing menu",
+    "Shrinks the head under masks so the face stops poking through",
+    "In-game Learn tool: mark exceptions (COVERS / SKIP) by pointing at them, remembered server-wide",
+    "Standalone, framework-agnostic, with the BUPA update and news hub built in"
+  ]
+}

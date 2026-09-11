@@ -1,0 +1,20 @@
+{
+  "version": "1.0.0",
+  "download": "https://portal.cfx.re/assets/granted-assets?search=bupa-mdt",
+  "changelog": [
+    "First release",
+    "Thirteen pages: Dashboard, Citizens, Vehicles, Reports, Incidents, Charges, Dispatch, Live GPS, Roster, Evidence, Cameras, Bulletins and Admin",
+    "Citizen dossiers with criminal records, warrants, licences, notes, owned vehicles and booking photos",
+    "Incidents and reports that link suspects, officers, charges, fines and jail time from the penal code",
+    "Dispatch feed for 911 calls with map blips and an AddCall export other resources can push to",
+    "Live GPS map with on-duty unit tracking, 10-8 / 10-7 duty toggle and an officer-down panic alert",
+    "Mugshot and photo capture built into the tablet itself, no external screenshot resource, uploaded via webhook, FiveManage or your own host",
+    "Bodycam item with a wearable clothing component, attach animation and an on-screen recording HUD",
+    "CCTV cameras placed in-world with a command, saved to the database and watched from the Cameras page",
+    "ANPR plate scanning with IsPlateWanted and AnprScan exports, plus BOLO plates and bulletins",
+    "Per-job, per-grade permissions for every page and every action in permissions.json, editable live from the Admin page with an audit log",
+    "Discord webhooks per event with their own URLs and colours: reports, evidence, warrants, fines, panic, duty, mugshots and more",
+    "Opened by command, inventory item or an optional rebindable key, with a tablet prop and animation",
+    "QBox, QB-Core, ESX and standalone, ox_inventory support, 10 languages set in the config"
+  ]
+}

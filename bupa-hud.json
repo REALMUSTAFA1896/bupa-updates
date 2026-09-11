@@ -1,0 +1,17 @@
+{
+  "version": "1.0.0",
+  "download": "https://portal.cfx.re/assets/granted-assets?search=bupa-hud",
+  "changelog": [
+    "First release",
+    "Seven HUD themes: Night Drive, Minimal, Racing, Classic, Compact, Tactical and Glass",
+    "Pick the on-foot theme and the car cluster separately, plus their own clusters for motorcycles, bicycles, boats and aircraft",
+    "Settings menu with live HUD previews, no screenshots: what you see is the real HUD",
+    "Health, armor, hunger, thirst, stamina and stress on every theme, with exports for other scripts",
+    "Car cluster with speed, rpm, gear, fuel, engine damage, seatbelt, lights, lock, cruise and turn signals on real keys",
+    "Weapon panel with clip, reserve and ammo pips, on foot and in the vehicle",
+    "Player info block you can trim line by line: name, job, ID, cash and bank",
+    "HUD color, size, opacity, minimap shape, minimap only in vehicle and per-element toggles",
+    "Move elements mode: drag any part of the HUD where you want it and save",
+    "QBox, QB-Core, ESX, ox_core, ND_Core and standalone, 12 languages set in the config"
+  ]
+}

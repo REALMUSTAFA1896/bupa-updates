@@ -1,0 +1,15 @@
+{
+  "version": "1.0.0",
+  "download": "https://portal.cfx.re/assets/granted-assets?search=bupa-music",
+  "changelog": [
+    "First release",
+    "Musicly music tablet with home, search, library, playlists, queue and profiles",
+    "Synced lyrics and karaoke stages with live scoring",
+    "Jams: listen together, vote to skip and invite friends",
+    "Boomboxes you place in the world, DJ sets and 3D panels showing the song",
+    "Keeps playing in your car with a small player on screen",
+    "Yearly Wrapped, likes, follows and shared playlists",
+    "Admin panel for DJ setups, boombox rules, no-music zones and moderation",
+    "QBox, QB-Core, ESX and standalone, 14 languages set in the config"
+  ]
+}

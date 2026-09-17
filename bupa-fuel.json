@@ -1,13 +1,16 @@
 {
-  "version": "1.0.0",
+  "version": "1.1.0",
   "download": "https://portal.cfx.re/assets/granted-assets?search=bupa-fuel",
   "changelog": [
-    "First release",
-    "Own gas stations: buy them, set per-litre prices, hire staff with permissions",
-    "Full management dashboard and a server-wide station admin panel",
-    "In-world 3D panels above the pump, visible to nearby players",
-    "Wrong-fuel consequences, jerry cans, electric charging and battery swaps",
-    "Stock deliveries: order wholesale, drive the tanker to the depot and back",
-    "QBox, QB-Core and ESX with every major inventory, 18 languages"
+    "Pump and charger sessions are paid up front and refunded for what was not used",
+    "Delivery deposits, cancels and unload times are checked on the server",
+    "Stock cost is refunded if the driver disconnects mid delivery",
+    "Station prices, identity and staff changes require being at the station",
+    "Webhook settings moved to config.server.lua",
+    "Fuel drain only runs while driving and syncs less often",
+    "Dashboard updates only go to players who have it open",
+    "Station saves are batched and flushed on resource stop",
+    "Employee permission now works and fired staff stay removed after a restart",
+    "Card payments for jerry cans use the bank account on ESX"
   ]
 }

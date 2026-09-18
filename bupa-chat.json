@@ -1,6 +1,6 @@
 {
   "version": "1.1.0",
-  "download": "https://github.com/REALMUSTAFA1896",
+  "download": "https://portal.cfx.re/assets/granted-assets?search=bupa-chat",
   "changelog": [
     "Optimised: head texts and command suggestions now use far fewer resources",
     "Security hardened: tokens and webhooks no longer reach players, fake join messages blocked, spam protection added",

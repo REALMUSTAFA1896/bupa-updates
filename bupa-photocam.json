@@ -1,0 +1,10 @@
+{
+  "version": "1.0.0",
+  "download": "https://portal.cfx.re/assets/granted-assets?search=bupa-photocam",
+  "changelog": [
+    "First release",
+    "Hold V for a free camera photo mode, tap V as usual to switch views",
+    "Filters, zoom, tilt, depth of field, grid and hide player",
+    "Stays within range of the player, blurs near the edge and cannot pass through walls"
+  ]
+}

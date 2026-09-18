@@ -2,13 +2,8 @@
   "version": "1.1.0",
   "download": "https://github.com/REALMUSTAFA1896",
   "changelog": [
-    "Discord bot token and webhooks moved to server/config.lua, no longer sent to players",
-    "Language is set with Config.Locale, convars removed",
-    "Chat, PM and emote commands are rate limited on the server",
-    "Join messages can no longer be faked from a client",
-    "Head texts only loop while something is shown and are cleaned up when they expire",
-    "Command suggestions refresh once when several resources start",
-    "Category access updates on job, gang and character change",
-    "Fixed nearby check for emote commands, censored emote names and duplicate chat logs"
+    "Optimised: head texts and command suggestions now use far fewer resources",
+    "Security hardened: tokens and webhooks no longer reach players, fake join messages blocked, spam protection added",
+    "Fixed emote, censor, Discord log and typing indicator bugs"
   ]
 }

@@ -2,15 +2,8 @@
   "version": "1.1.0",
   "download": "https://portal.cfx.re/assets/granted-assets?search=bupa-fuel",
   "changelog": [
-    "Pump and charger sessions are paid up front and refunded for what was not used",
-    "Delivery deposits, cancels and unload times are checked on the server",
-    "Stock cost is refunded if the driver disconnects mid delivery",
-    "Station prices, identity and staff changes require being at the station",
-    "Webhook settings moved to config.server.lua",
-    "Fuel drain only runs while driving and syncs less often",
-    "Dashboard updates only go to players who have it open",
-    "Station saves are batched and flushed on resource stop",
-    "Employee permission now works and fired staff stay removed after a restart",
-    "Card payments for jerry cans use the bank account on ESX"
+    "Optimised: fuel drain only runs while driving, lighter panel and database work",
+    "Money exploits closed: free fuel, delivery deposit abuse and remote station management blocked",
+    "Fixed employee permissions, fired staff returning after restart and ESX card payments"
   ]
 }

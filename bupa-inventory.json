@@ -1,0 +1,10 @@
+{
+  "version": "1.0.0",
+  "download": "https://portal.cfx.re/assets/granted-assets?search=bupa-inventory",
+  "changelog": [
+    "First release",
+    "Slot based inventory with item metadata, containers, shops, crafting and evidence",
+    "Weapons with durability, components, special ammo and serial numbers",
+    "Works with QBox, QB-Core and ESX"
+  ]
+}

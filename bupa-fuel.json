@@ -1,9 +1,8 @@
 {
-  "version": "1.1.0",
+  "version": "1.1.2",
   "download": "https://portal.cfx.re/assets/granted-assets?search=bupa-fuel",
   "changelog": [
-    "Optimised: fuel drain only runs while driving, lighter panel and database work",
-    "Money exploits closed: free fuel, delivery deposit abuse and remote station management blocked",
-    "Fixed employee permissions, fired staff returning after restart and ESX card payments"
+    "Fixed a client error when the pump hose, the delivery truck hose or the EV charging cable failed to spawn",
+    "Fixed the same error when the pump, truck or charger despawned while the hose or cable was being attached"
   ]
 }

@@ -2,12 +2,15 @@
   "version": "1.0.0",
   "download": "https://portal.cfx.re/assets/granted-assets?search=bupa-multicharacter",
   "changelog": [
-    "Initial release",
-    "ESX / QBox / QBCore compatible",
-    "Custom React NUI (character select, creation, settings, delete)",
-    "Partner system (CP / BFF) with live and offline invites",
-    "Built-in Leaflet spawn map with configurable spawn modes",
-    "Discord role based extra character slots",
-    "Console version checker and news system"
+    "Rebuilt from scratch",
+    "Qbox, QBCore and ESX",
+    "9 cinematic scenes with photo mode (time, weather, filter, camera)",
+    "Couple, best friend and crew links shown together in the scene",
+    "Music player with synced lyrics",
+    "Airport intro for new characters",
+    "Discord role, admin and Tebex character slots",
+    "Deleted character bin with restore",
+    "Starter items and starter kits",
+    "Open bridge for framework, inventory, clothing, spawn and apartment"
   ]
 }

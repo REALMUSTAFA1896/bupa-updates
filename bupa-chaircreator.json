@@ -1,11 +1,14 @@
 {
-  "version": "1.0.0",
+  "version": "1.1.0",
   "download": "https://portal.cfx.re/assets/granted-assets?search=bupa-chaircreator",
   "changelog": [
-    "Initial release",
-    "In-game WYSIWYG sit placement with an orbit camera (works inside interiors)",
-    "Prop sits and free spots, ox_target / qb-target / TextUI / 3D marker",
-    "Sitting pose library, custom animations and player-choice menu",
-    "Config sit packs and full in-game settings saved to JSON"
+    "Multi-seat props: benches, sofas and booths can have as many seats as you need, each with its own position, animation and name",
+    "A sit made on a prop now works on every copy of that model, including ones that spawn later (Only this one is still available)",
+    "Ghost preview of the seat layout while placing seats",
+    "Seats are handed out by the server, two players can no longer take the same seat; Choose a seat shows which ones are free",
+    "Third-eye shows on every copy of a configured prop, survives target restarts and works on qb-target",
+    "Sit packs switch on and off live without a restart",
+    "Lower CPU and network usage, stricter server checks on everything the creator saves",
+    "Old sits are converted automatically"
   ]
 }

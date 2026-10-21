@@ -1,8 +1,8 @@
 {
-  "version": "1.1.2",
+  "version": "1.2.0",
   "download": "https://portal.cfx.re/assets/granted-assets?search=bupa-fuel",
   "changelog": [
-    "Fixed a client error when the pump hose, the delivery truck hose or the EV charging cable failed to spawn",
-    "Fixed the same error when the pump, truck or charger despawned while the hose or cable was being attached"
+    "EV charger model cleaned up: a leftover third-party logo texture was removed and two textures were renamed. The charger looks the same in game.",
+    "Smaller charger model file (454 KB to 336 KB)"
   ]
 }

@@ -1,15 +1,20 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.2",
   "download": "https://portal.cfx.re/assets/granted-assets?search=bupa-music",
   "changelog": [
-    "First release",
-    "Musicly music tablet with home, search, library, playlists, queue and profiles",
-    "Synced lyrics and karaoke stages with live scoring",
-    "Jams: listen together, vote to skip and invite friends",
-    "Boomboxes you place in the world, DJ sets and 3D panels showing the song",
-    "Keeps playing in your car with a small player on screen",
-    "Yearly Wrapped, likes, follows and shared playlists",
-    "Admin panel for DJ setups, boombox rules, no-music zones and moderation",
-    "QBox, QB-Core, ESX and standalone, 14 languages set in the config"
+    "Fixed ESX and QB-Core: player, job, items and admin were not read, so the tablet, boombox and /music showed \"That did not work\"",
+    "ESX admins in the admin or superadmin group can open /musicadmin",
+    "Job-locked DJ sets: only that job and grade can connect, play or request songs, admins included",
+    "Job-locked karaoke stages now check grade and duty",
+    "Off-duty ESX players no longer pass job locks",
+    "New QB-Core (qb-inventory) and ox_core support fixed",
+    "New config switches to turn off car audio, boomboxes, DJ sets, karaoke and jams",
+    "Car audio no longer follows the old driver after someone else takes the wheel",
+    "Picking up someone else's boombox as admin returns the item to its owner",
+    "Song titles with accents, Cyrillic or emoji no longer fail on latin1 databases; tables are converted on start",
+    "Home page fixed on MariaDB strict mode",
+    "Lyrics and covers are no longer marked missing for a day after a timeout",
+    "Tablet, prompts and the hand prop no longer get stuck after quick open/close, death or restart",
+    "Boombox placement, car prompts and DJ/karaoke props cleaned up when leaving or restarting"
   ]
 }

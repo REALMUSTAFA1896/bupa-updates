@@ -1,9 +1,8 @@
 {
-  "version": "1.1.0",
+  "version": "1.1.1",
   "download": "https://portal.cfx.re/assets/granted-assets?search=bupa-chat",
   "changelog": [
-    "Optimised: head texts and command suggestions now use far fewer resources",
-    "Security hardened: tokens and webhooks no longer reach players, fake join messages blocked, spam protection added",
-    "Fixed emote, censor, Discord log and typing indicator bugs"
+    "Fixed Turkish text in the English UI: emoji search and command list hint now follow Config.Locale",
+    "Emoji picker category names and search label are now translated in every language"
   ]
 }

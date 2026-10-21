@@ -3,6 +3,8 @@
   "download": "https://portal.cfx.re/assets/granted-assets?search=bupa-fuel",
   "changelog": [
     "EV charger model cleaned up: a leftover third-party logo texture was removed and two textures were renamed. The charger looks the same in game.",
-    "Smaller charger model file (454 KB to 336 KB)"
+    "Smaller charger model file (454 KB to 336 KB)",
+    "Fixed the tanker unloading panel showing $0 /L: it now shows the delivery price per litre",
+    "Prices per litre and per kWh now show cents (e.g. $1.50 instead of $2)"
   ]
 }

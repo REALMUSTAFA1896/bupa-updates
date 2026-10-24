@@ -1,20 +1,10 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.3",
   "download": "https://portal.cfx.re/assets/granted-assets?search=bupa-music",
   "changelog": [
-    "Fixed ESX and QB-Core: player, job, items and admin were not read, so the tablet, boombox and /music showed \"That did not work\"",
-    "ESX admins in the admin or superadmin group can open /musicadmin",
-    "Job-locked DJ sets: only that job and grade can connect, play or request songs, admins included",
-    "Job-locked karaoke stages now check grade and duty",
-    "Off-duty ESX players no longer pass job locks",
-    "New QB-Core (qb-inventory) and ox_core support fixed",
-    "New config switches to turn off car audio, boomboxes, DJ sets, karaoke and jams",
-    "Car audio no longer follows the old driver after someone else takes the wheel",
-    "Picking up someone else's boombox as admin returns the item to its owner",
-    "Song titles with accents, Cyrillic or emoji no longer fail on latin1 databases; tables are converted on start",
-    "Home page fixed on MariaDB strict mode",
-    "Lyrics and covers are no longer marked missing for a day after a timeout",
-    "Tablet, prompts and the hand prop no longer get stuck after quick open/close, death or restart",
-    "Boombox placement, car prompts and DJ/karaoke props cleaned up when leaving or restarting"
+    "Boomboxes carried into a blocked zone now pause and can't be played, skipped or put down there; carry it out and press play to continue",
+    "Job-locked DJ sets: everyone with the job can play, pause, skip, change songs and set the volume, no matter who started the song; admins can use them too",
+    "Admin Stop fully resets karaoke stages and DJ sets in karaoke mode",
+    "Stop and pause are reliable: a song still loading, a song change or a crossfade no longer brings the music back"
   ]
 }

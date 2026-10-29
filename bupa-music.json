@@ -1,11 +1,8 @@
 {
-  "version": "1.0.5",
+  "version": "1.0.6",
   "download": "https://portal.cfx.re/assets/granted-assets?search=bupa-music",
   "changelog": [
-    "Boombox in a blocked zone: the spot is checked before the boombox is put down, so no frozen prop is left behind",
-    "A boombox the server refuses is always removed, even with other players nearby",
-    "Leftover boombox props from a placement that never finished are cleaned up by the server",
-    "Boombox placement: the preview stays in front of you or on the spot you aim at, instead of under your feet",
-    "Boombox placement: Backspace cancels instead of right mouse; sprinting and jumping are off while placing"
+    "Boombox placement: the preview no longer has collision, so players cannot stand on it or use it to glitch through walls",
+    "The boombox only gets collision once it is placed, and gets it back when a carried boombox is put down"
   ]
 }

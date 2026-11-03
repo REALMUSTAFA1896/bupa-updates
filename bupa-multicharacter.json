@@ -1,10 +1,10 @@
 {
-  "version": "1.1.0",
+  "version": "1.1.1",
   "download": "https://portal.cfx.re/assets/granted-assets?search=bupa-multicharacter",
   "changelog": [
-    "Presets: players save their selection look (scene, time, weather, filter, camera, pose and music) and pick one to load every time the menu opens",
-    "Up to 5 presets per player (Config.Presets), stored on the player's PC, no database changes",
-    "BUPA Spawn Selector support: Integrations.Spawn = 'auto' finds it, 'bupa' works as a short name",
-    "Removed install/bupa_multicharacter.sql, tables are created on start"
+    "Fixed: with a config.lua from 1.0.0 (no Config.Presets) the selection menu failed to open; missing preset settings now default to on, 5 presets, 24 characters",
+    "Fixed: an error during the selection or after Play could leave the player invisible and invincible at the scene spot, which anticheats flagged as godmode; the player is now always released and spawned at the last location",
+    "If another resource loads the player while the menu is open, the menu closes and the player is moved to their character's position",
+    "BUPA Spawn Selector: if it stops or closes without spawning the player, the character spawns at the last location"
   ]
 }

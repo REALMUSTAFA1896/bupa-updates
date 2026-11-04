@@ -1,8 +1,7 @@
 {
-  "version": "1.1.1",
+  "version": "1.1.2",
   "download": "https://portal.cfx.re/assets/granted-assets?search=bupa-chat",
   "changelog": [
-    "Fixed Turkish text in the English UI: emoji search and command list hint now follow Config.Locale",
-    "Emoji picker category names and search label are now translated in every language"
+    "The chat box border and highlights now follow the selected accent colour (they stayed blue before)"
   ]
 }

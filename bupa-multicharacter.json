@@ -1,10 +1,10 @@
 {
-  "version": "1.1.1",
+  "version": "1.1.2",
   "download": "https://portal.cfx.re/assets/granted-assets?search=bupa-multicharacter",
   "changelog": [
-    "Fixed: with a config.lua from 1.0.0 (no Config.Presets) the selection menu failed to open; missing preset settings now default to on, 5 presets, 24 characters",
-    "Fixed: an error during the selection or after Play could leave the player invisible and invincible at the scene spot, which anticheats flagged as godmode; the player is now always released and spawned at the last location",
-    "If another resource loads the player while the menu is open, the menu closes and the player is moved to their character's position",
-    "BUPA Spawn Selector: if it stops or closes without spawning the player, the character spawns at the last location"
+    "Fixed (ESX + illenium-appearance): creating a character could leave the player standing at the airport with no clothing menu and no intro; the menu now opens through illenium-appearance directly",
+    "If the clothing menu or the intro fails, the player still continues to the next step and a clear error is printed in F8",
+    "ESX: the server now warns at start if es_extended is not in multicharacter mode and checks the loaded character on create and login",
+    "INSTALL: correct Config.Multichar file paths for each ESX version"
   ]
 }

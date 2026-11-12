@@ -1,10 +1,8 @@
 {
-  "version": "1.2.0",
+  "version": "1.2.1",
   "download": "https://portal.cfx.re/assets/granted-assets?search=bupa-fuel",
   "changelog": [
-    "EV charger model cleaned up: a leftover third-party logo texture was removed and two textures were renamed. The charger looks the same in game.",
-    "Smaller charger model file (454 KB to 336 KB)",
-    "Fixed the tanker unloading panel showing $0 /L: it now shows the delivery price per litre",
-    "Prices per litre and per kWh now show cents (e.g. $1.50 instead of $2)"
+    "Fixed qb-target / qtarget: taking the nozzle, filling a jerry can, grabbing the charging cable, swapping the battery and plugging in deliveries threw a script error when selected",
+    "qb-target: the delivery hose option is now removed correctly when the hose is put away"
   ]
 }
